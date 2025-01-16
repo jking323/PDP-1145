@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PYBFFGTC
 
 [Document4]
-DocumentPath=components\Libraries\DIP16.PcbLib
+DocumentPath=components\Libraries\DIP16-600.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -269,6 +269,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HWLTAKII
+
+[Document14]
+DocumentPath=components\Libraries\DIP16-300.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XUKUBMCA
 
 [OutputGroup1]
 Name=Netlist Outputs

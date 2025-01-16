@@ -1,0 +1,193 @@
+Added Component: Designator=E1(DIP14)
+Added Component: Designator=E2(DIP16-300)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Rochester Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SN74S174N"; VariantName = "[No Variations]"
+Added Component: Designator=E3(DIP16)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Rochester Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DM74S153N"; VariantName = "[No Variations]"
+Added Component: Designator=E4(DIP16)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Rochester Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DM74S153N"; VariantName = "[No Variations]"
+Added Component: Designator=E5(DIP16)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Rochester Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DM74S153N"; VariantName = "[No Variations]"
+Added Component: Designator=E6(DIP14)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "595-SN74S04N"; VariantName = "[No Variations]"
+Added Component: Designator=E11(DIP14)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "595-SN74S04N"; VariantName = "[No Variations]"
+Added Component: Designator=E12(DIP16-300)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Rochester Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SN74S174N"; VariantName = "[No Variations]"
+Added Component: Designator=E13(DIP16)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Rochester Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DM74S153N"; VariantName = "[No Variations]"
+Added Component: Designator=E14(DIP16)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Rochester Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DM74S153N"; VariantName = "[No Variations]"
+Added Component: Designator=E15(DIP16)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Rochester Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DM74S153N"; VariantName = "[No Variations]"
+Added Component: Designator=E19(DIP16-300)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Rochester Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SN74S174N"; VariantName = "[No Variations]"
+Added Component: Designator=E20(DIP16)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Rochester Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DM74S153N"; VariantName = "[No Variations]"
+Added Component: Designator=E21(DIP16)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Rochester Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DM74S153N"; VariantName = "[No Variations]"
+Added Component: Designator=E22(DIP16)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Rochester Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DM74S153N"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Axial 0.6)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2019-CF1/4C561J-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "273-OK1515E-R52CT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=E1-14
+Added Pin To Net: NetName=+5 Pin=E2-16
+Added Pin To Net: NetName=+5 Pin=E12-16
+Added Pin To Net: NetName=+5 Pin=E19-16
+Added Pin To Net: NetName=+5 Pin=E20-16
+Added Net: Name=+5
+Added Pin To Net: NetName=AL1 Pin=E2-4
+Added Net: Name=AL1
+Added Pin To Net: NetName=AL2 Pin=E2-6
+Added Net: Name=AL2
+Added Pin To Net: NetName=BB1 Pin=E12-14
+Added Net: Name=BB1
+Added Pin To Net: NetName=BC1 Pin=E12-13
+Added Net: Name=BC1
+Added Pin To Net: NetName=BD1 Pin=E12-11
+Added Net: Name=BD1
+Added Pin To Net: NetName=BD2 Pin=E12-6
+Added Net: Name=BD2
+Added Pin To Net: NetName=BE1 Pin=E12-4
+Added Net: Name=BE1
+Added Pin To Net: NetName=BE2 Pin=E12-3
+Added Net: Name=BE2
+Added Pin To Net: NetName=BK2 Pin=E20-11
+Added Net: Name=BK2
+Added Pin To Net: NetName=CR1 Pin=E2-5
+Added Pin To Net: NetName=CR1 Pin=E20-6
+Added Net: Name=CR1
+Added Pin To Net: NetName=CR2 Pin=E2-7
+Added Pin To Net: NetName=CR2 Pin=E20-10
+Added Net: Name=CR2
+Added Pin To Net: NetName=E1 CLK Pin=E1-8
+Added Pin To Net: NetName=E1 CLK Pin=E2-9
+Added Pin To Net: NetName=E1 CLK Pin=E12-9
+Added Pin To Net: NetName=E1 CLK Pin=E19-9
+Added Net: Name=E1 CLK
+Added Pin To Net: NetName=GND Pin=E1-1
+Added Pin To Net: NetName=GND Pin=E1-4
+Added Pin To Net: NetName=GND Pin=E1-5
+Added Pin To Net: NetName=GND Pin=E1-6
+Added Pin To Net: NetName=GND Pin=E1-7
+Added Pin To Net: NetName=GND Pin=E1-11
+Added Pin To Net: NetName=GND Pin=E1-12
+Added Pin To Net: NetName=GND Pin=E1-13
+Added Pin To Net: NetName=GND Pin=E2-8
+Added Pin To Net: NetName=GND Pin=E11-7
+Added Pin To Net: NetName=GND Pin=E12-8
+Added Pin To Net: NetName=GND Pin=E19-8
+Added Pin To Net: NetName=GND Pin=E20-1
+Added Pin To Net: NetName=GND Pin=E20-4
+Added Pin To Net: NetName=GND Pin=E20-8
+Added Pin To Net: NetName=GND Pin=E20-15
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetE1_2 Pin=E1-2
+Added Pin To Net: NetName=NetE1_2 Pin=R?-2
+Added Net: Name=NetE1_2
+Added Pin To Net: NetName=NetE1_3 Pin=E1-3
+Added Net: Name=NetE1_3
+Added Pin To Net: NetName=NetE1_9 Pin=E1-9
+Added Pin To Net: NetName=NetE1_9 Pin=E1-10
+Added Pin To Net: NetName=NetE1_9 Pin=E11-8
+Added Pin To Net: NetName=NetE1_9 Pin=E19-14
+Added Net: Name=NetE1_9
+Added Pin To Net: NetName=NetE2_1 Pin=E2-1
+Added Pin To Net: NetName=NetE2_1 Pin=E12-1
+Added Pin To Net: NetName=NetE2_1 Pin=E19-1
+Added Net: Name=NetE2_1
+Added Pin To Net: NetName=NetE2_10 Pin=E2-10
+Added Net: Name=NetE2_10
+Added Pin To Net: NetName=NetE2_11 Pin=E2-11
+Added Net: Name=NetE2_11
+Added Pin To Net: NetName=NetE2_12 Pin=E2-12
+Added Net: Name=NetE2_12
+Added Pin To Net: NetName=NetE2_13 Pin=E2-13
+Added Net: Name=NetE2_13
+Added Pin To Net: NetName=NetE2_14 Pin=E2-14
+Added Net: Name=NetE2_14
+Added Pin To Net: NetName=NetE2_15 Pin=E2-15
+Added Net: Name=NetE2_15
+Added Pin To Net: NetName=NetE3_2 Pin=E3-2
+Added Pin To Net: NetName=NetE3_2 Pin=E6-10
+Added Pin To Net: NetName=NetE3_2 Pin=E13-2
+Added Pin To Net: NetName=NetE3_2 Pin=E20-2
+Added Net: Name=NetE3_2
+Added Pin To Net: NetName=NetE3_14 Pin=E3-14
+Added Pin To Net: NetName=NetE3_14 Pin=E6-8
+Added Pin To Net: NetName=NetE3_14 Pin=E13-14
+Added Pin To Net: NetName=NetE3_14 Pin=E20-14
+Added Net: Name=NetE3_14
+Added Pin To Net: NetName=NetE11_9 Pin=E11-9
+Added Net: Name=NetE11_9
+Added Pin To Net: NetName=NetE11_12 Pin=E11-12
+Added Net: Name=NetE11_12
+Added Pin To Net: NetName=NetE11_13 Pin=E11-13
+Added Net: Name=NetE11_13
+Added Pin To Net: NetName=NetE12_2 Pin=E12-2
+Added Net: Name=NetE12_2
+Added Pin To Net: NetName=NetE12_5 Pin=E12-5
+Added Net: Name=NetE12_5
+Added Pin To Net: NetName=NetE12_7 Pin=E12-7
+Added Net: Name=NetE12_7
+Added Pin To Net: NetName=NetE12_10 Pin=E12-10
+Added Net: Name=NetE12_10
+Added Pin To Net: NetName=NetE12_12 Pin=E12-12
+Added Net: Name=NetE12_12
+Added Pin To Net: NetName=NetE12_15 Pin=E12-15
+Added Net: Name=NetE12_15
+Added Pin To Net: NetName=NetE19_2 Pin=E19-2
+Added Net: Name=NetE19_2
+Added Pin To Net: NetName=NetE19_3 Pin=E19-3
+Added Pin To Net: NetName=NetE19_3 Pin=E19-11
+Added Net: Name=NetE19_3
+Added Pin To Net: NetName=NetE19_4 Pin=E19-4
+Added Net: Name=NetE19_4
+Added Pin To Net: NetName=NetE19_6 Pin=E19-6
+Added Net: Name=NetE19_6
+Added Pin To Net: NetName=NetE19_7 Pin=E19-7
+Added Net: Name=NetE19_7
+Added Pin To Net: NetName=NetE19_10 Pin=E19-10
+Added Net: Name=NetE19_10
+Added Pin To Net: NetName=NetE19_12 Pin=E19-12
+Added Net: Name=NetE19_12
+Added Pin To Net: NetName=NetE19_13 Pin=E19-13
+Added Net: Name=NetE19_13
+Added Pin To Net: NetName=NetE19_15 Pin=E19-15
+Added Net: Name=NetE19_15
+Added Pin To Net: NetName=NetE20_3 Pin=E20-3
+Added Net: Name=NetE20_3
+Added Pin To Net: NetName=NetE20_5 Pin=E20-5
+Added Net: Name=NetE20_5
+Added Pin To Net: NetName=NetE20_7 Pin=E20-7
+Added Net: Name=NetE20_7
+Added Pin To Net: NetName=NetE20_9 Pin=E20-9
+Added Net: Name=NetE20_9
+Added Pin To Net: NetName=NetE20_12 Pin=E20-12
+Added Net: Name=NetE20_12
+Added Pin To Net: NetName=NetE20_13 Pin=E20-13
+Added Net: Name=NetE20_13
+Added Pin To Net: NetName=RS1 Pin=E6-9
+Added Net: Name=RS1
+Added Pin To Net: NetName=RS2 Pin=E6-11
+Added Net: Name=RS2
+Added Class: Name=DAP DATA PATHS
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
